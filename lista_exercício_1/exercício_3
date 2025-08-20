@@ -1,0 +1,19 @@
+<html>
+     <head>
+          <title>exercício 3</title>
+     </head>
+     <body>
+     <h2>TOP 10 linguagens de programção mais utilizadas no ano de 2020</h2>
+     <h3>de acordo com Tiobe Index:</h3>
+  <ol>
+     <li>Javascript</li>
+     <li>Java</li>
+     <li>Python</li>
+     <li>Objective-C</li>
+     <li>PHP</li>
+     <li>Ruby</li>
+     <li>C++</li>
+     <li>C</li>
+     <li>Shell</li>
+     <li>C#</li>
+  </ol>
