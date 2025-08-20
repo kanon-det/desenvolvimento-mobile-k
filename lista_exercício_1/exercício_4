@@ -1,0 +1,16 @@
+<html>
+     <head>
+          <title>exercicio 4</title>
+     </head>
+     <body>
+     <h2><u>lista de compras:</u></h2>
+     <ol>
+    <h3><li>pão
+     <li>leite
+     <li>café
+     <li>laranja
+     <li>açucar
+     <li>manteiga
+     <li>banana
+     <li>bolo de goma</h3>
+     </ol>
