@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <title>SATO NEWS</title>
+    <link rel"stylesheet" href="styles.css"/>
+  </head>
+  <body>
+  <div class="card">
+    <img src="https://maringapost.com.br/wp-content/uploads/2022/11/FOTO-CAPA-3.jpg"
+    alt="tokusatsu"
+    width="500px"
+    >
+    <div class="box">
+    <div class="cabecalho">
+    <span class="title">Metal Heroes,Super Sentais e Kamen Riders</span>
+    </div>
+    <div class="description">
+      tokusatsu é um termo japonês que se refere a filmes e séries de televisão em live-action que usam intensamente efeitos especiais práticos. O gênero, que inclui super-heróis, ficção científica, fantasia e horror, é conhecido por produções como Godzilla e Ultraman, e teve grande influência cultural no Brasil nas décadas de 1980 e 1990, com séries como Jaspion e Changeman. 
+    </div>
+    <div class="acoes"
+    <div class="botao">
+      <button>veja mais</button>
+    </div>
+    </div>
+    </div>
+  </body>
+</html>
