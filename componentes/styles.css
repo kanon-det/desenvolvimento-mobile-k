@@ -1,0 +1,36 @@
+.card {
+  border: 1px solid gray;
+  width: 450px;
+}
+
+.box{
+  padding: 20px;
+}
+
+.cabecalho{
+  font-size: 26px;
+  font-weight: 700;
+}
+
+.title{
+ float: left; 
+}
+
+.description{
+  margin-top: 50px;
+  margin-bottom: 15px;
+  text-align: justify;
+}
+
+.acoes{
+  text-align: center;
+}
+.button{
+  background-color: blue;
+  width: 400px;
+  border-radius: 9px;
+  padding: 5px 0px;
+  color: red;
+  border: 0px;
+  cursor: pointer;
+}
