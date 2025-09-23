@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br"></html>
+<head>
+    <meta charset="UTF-8"
+    <meta name="viewpoint" content="whdth=device-width, initial-scale=1.8"
+    <title>document</title>
+</head>
+<body>
+    <h1> Bem-Vindo ao primeiro Site </h1>
+    <h2> criando listas com HTML </h2>
+    <h3> ordenada </h3>
+        <ol>
+            <li>Samuel</li>
+            <li>Flávio</li>
+            <li>Charles</li>
+            <li>Francisco</li>
+            <li>Fabiano</li>
+        </ol>
+    <h3> não ordenada </h3>
+        <u>
+            <li>Nataly</li>
+            <li>Cesar</li>
+            <li>João Pedro</li>
+            <li>Faustino</li>
+            <li>João Vitor</li>
+            <li>Samara</li>
+        </u>
+    <h3> De Definições</h3>
+    <dl>
+        <dt>IBGE</dt>
+        <dd>Instituto Brasileiro de Geografia e Estatística</dd>
+        <dt>INMETRO</dt>
+        <dd>Instituto Nacional de Metrologia</dd>
+    </dl>
+        
+</body>
+</html>
